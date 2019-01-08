@@ -1,8 +1,8 @@
-#Semeval 2014
+# Semeval 2014
 
-##1. Term-based 
+## 1. Term-based 
 
-###1.1 Three-way (positive|neutral|negative)
+### 1.1 Three-way (positive|neutral|negative)
 
 * __Restaurant__ for semeval 2014:
 
@@ -48,7 +48,7 @@
 | DAuM |[Enhanced Aspect Level Sentiment Classification with Auxiliary Memory](http://aclweb.org/anthology/C18-1092)| 74.68 | 2018 | COLING 2018
 
 
-###1.2 Two-way (positive|negative)
+### 1.2 Two-way (positive|negative)
 
 * __Restaurant__ for semeval 2014:
 
@@ -70,10 +70,10 @@
 
 ------
 
-##2. Category-based 
+## 2. Category-based 
 
 
-###2.1 Three-way (positive|neutral|negative)
+### 2.1 Three-way (positive|neutral|negative)
 
 * __Restaurant__ for semeval 2014:
 
@@ -87,7 +87,7 @@
 | DAuM |[Enhanced Aspect Level Sentiment Classification with Auxiliary Memory](http://aclweb.org/anthology/C18-1092)| 86.33 | 2018 | COLING 2018
 
 
-###2.2 Two-way (positive|negative)
+### 2.2 Two-way (positive|negative)
 
 * __Restaurant__ for semeval 2014:
 
